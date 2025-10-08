@@ -1,6 +1,7 @@
 
 button{
     background-color: green;
+    padding: 5px;
 }
 span{
     color: greenyellow;
@@ -20,4 +21,6 @@ a{
 }
 .header_nav{
     background-color: brown;
+    margin:10px;
+    padding: 20px;
 }
