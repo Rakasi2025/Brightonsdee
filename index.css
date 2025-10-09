@@ -35,13 +35,15 @@ h3{
     margin-left: 350px;
     font-size:30px ;
 }
-p{
-    margin-left: 50px;
-}
 .Aboutusimage{
     margin-left: 50px;
 }
 h2{
     margin-left:500px ;
     font-size: 40px;
+}
+@media (max-width: 786px){
+    .experience{
+        flex-direction: column;
+    }
 }
