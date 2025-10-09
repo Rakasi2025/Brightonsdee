@@ -4,7 +4,7 @@ button{
     padding: 5px;
 }
 span{
-    color: greenyellow;
+    color: red;
 }
 body{
     background-repeat: repeat;
@@ -23,4 +23,25 @@ a{
     background-color: brown;
     margin:10px;
     padding: 20px;
+}
+h1{
+    margin-left: 250px;
+    font-size: 60px;
+}
+.header_cta{
+    margin-left: 1050px;
+}
+h3{
+    margin-left: 350px;
+    font-size:30px ;
+}
+p{
+    margin-left: 50px;
+}
+.Aboutusimage{
+    margin-left: 50px;
+}
+h2{
+    margin-left:500px ;
+    font-size: 40px;
 }
